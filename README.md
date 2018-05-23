@@ -1,4 +1,4 @@
-# Circular thing
+# Disc thing
 
 ## Made with canvas 
 
